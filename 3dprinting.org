@@ -1,0 +1,37 @@
+* Prusa MK2 bought in 2016
+** upgraded to MK2.5, then MK2.5S
+** Prague, Czechia
+** very popular
+** good support
+** well documented
+** easy access to replacement parts
+* Design
+** OpenSCAD
+*** version using Git
+*** store designs on Github
+** Fusion 360
+*** free for personal use
+*** store designs in the Autodesk cloud
+*** some versioning capabilities
+* Slicing
+** FDM (?)
+** Prusa Slicer
+** Cura
+* Printing
+** variety of colours
+** variety of material types
+*** PLA - no fossils used, low temperature
+*** PETG - more durable
+*** ABS - very durable, higher temperatures, warping and difficult to print with
+* Sodastream story
+** a friend came and asked about fixing his Sodastream
+** differences between injection molding and 3D printing to make it last longer
+** nearly 200 buttons sold in a year in Poland only, €10 each, costs below €1 to produce, 4.97 out of 5 stars
+** replacement parts are not available, you can buy a new unit with the same design flaw - expected to break within a couple years
+* Manufacturing process
+** visible in higher volume
+** things wear out
+*** clogged nozzle
+*** filament causes friction
+*** dust accumulation
+** 3D printing as a good alternative for injection molding (low volume parts)
